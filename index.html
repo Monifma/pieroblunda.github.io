@@ -1,14 +1,12 @@
 <!DOCTYPE HTML>
 <html>
-
 <head>
-  <title>My Cv Bootstarp Website Template | Home :: w3layouts</title>
+  <title>Piero Blunda</title>
   <link rel="stylesheet" href="css/bootstrap.css" type='text/css' />
-  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="https://sinaptica.io/mfizz/font-mfizz.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="css/style.css" type="text/css" />
   <script src="js/jquery-1.11.0.min.js"></script>
-  <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta charset="utf-8">
   <script type="application/x-javascript">
@@ -583,7 +581,7 @@
   <!--- Footer Starts Here ---->
   <div class="footer">
     <div class="container">
-      <p class="copyright">2015 - Piero Blunda</p>
+      <p class="copyright">2016 - Piero Blunda</p>
     </div>
   </div>
   <!--- Footer Ends Here ---->
